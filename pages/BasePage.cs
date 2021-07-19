@@ -17,7 +17,7 @@ namespace OrangeHRR.pages
         {
 
             this.driver = driver;
-            //EXPLICITAS
+            //EXPLICITAS CAMBIO EN GIT
             //Instacion del objeto wait
             wait = new WebDriverWait(driver, TimeSpan.FromSeconds(20));
             /////////////////////////////////////////////////////////////////////////////
